@@ -2,3 +2,5 @@ first
 new comment
 
 Branch test
+
+it is interesting to add smtf throught gitHub
